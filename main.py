@@ -1,2 +1,3 @@
 def count_characters(text):
-    return 1
+    a= len(text)
+    return a
